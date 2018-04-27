@@ -24,9 +24,9 @@ body{
   -webkit-transform: rotateX(0) rotateY(0) rotateZ(0);
      -moz-transform: rotateX(0) rotateY(0) rotateZ(0);
           transform: rotateX(0) rotateY(0) rotateZ(0);
-  -webkit-animation: run 5s infinite linear;
+/*   -webkit-animation: run 5s infinite linear;
 	 -moz-animation: run 5s infinite linear;
-		  animation: run 5s infinite linear;
+		  animation: run 5s infinite linear; */
 }
 
 
